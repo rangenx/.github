@@ -1,3 +1,3 @@
 ## Locallback
 
-Gives LLMs the ability to call thelocal function.
+Gives LLMs the ability to call local function.
