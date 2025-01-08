@@ -1,3 +1,3 @@
-## Rainveil / 雨幕
+## Trace-Index
 
-雨幕如梦，浅织心头千千结，欲诉却还休。
+A Java RAG framework for LLMs.
