@@ -1,3 +1,3 @@
-## Rangen
+## Alt-Ego
 
-A Java RAG framework for LLMs.
+A Java AI-Agent framework for LLMs.
